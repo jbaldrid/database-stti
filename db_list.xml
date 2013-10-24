@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<databases>
+	<database name="Development" userID="jbaldrid" Password ="cards" Instance="PC71" db_name ="netFORUMSTTIDEV"/>
+	<database name="Production" userID="frank_prod" Password ="cards-prod" Instance="PC55" db_name ="netFORUMSTTI"/>
+</databases>
+
