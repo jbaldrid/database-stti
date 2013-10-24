@@ -26,5 +26,6 @@ Lead develepor: Baylor Aldridge
 
 Organiztion: Sigma Theta Tau International, Honor Society of Nursing
 
-Thank you
+Thank you,
+
 Baylor A.
